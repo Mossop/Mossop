@@ -1,6 +1,6 @@
 ### Hello!
 
-I like to write code. I like to [experiment with new things](https://github.com/Mossop/file-store-rs), or try to [solve problems](https://github.com/Mossop/es6-module-use-cycles) that annoy me and maybe no-one else. I have all sorts of cool ideas for [things](https://github.com/Mossop/musicbox-rs) to [build](https://github.com/Mossop/media-metadata) and sometimes I even start building them. I generally don't finish, once I've done the interesting bits that teach me something or prove that something can be done the grind of shipping isn't something I have much interest in doing in my spare time. But who knows, one day maybe I'll ship something!
+I like to write code. I like to experiment with new things, or try to solve problems that annoy me and maybe no-one else. I have all sorts of cool ideas for things to build and sometimes I even start building them. I generally don't finish, once I've done the interesting bits that teach me something or prove that something can be done the grind of shipping isn't something I have much interest in doing in my spare time. But who knows, one day maybe I'll ship something!
 
 Almost nothing I work on professionally is hosted on github so all you're seeing here are things I work on in my spare time.
 
